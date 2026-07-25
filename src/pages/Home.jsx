@@ -334,7 +334,7 @@ function Home() {
           <div>
             <h4 className="font-bold mb-4">📞 İletişim</h4>
             <p className="text-gray-400">📱 0555 123 45 67</p>
-            <p className="text-gray-400">📧 info@dentapp.com</p>
+            <p className="text-gray-400">📧 📧 info@fatsadent.com</p>
             <p className="text-gray-400">📍 İstanbul, Türkiye</p>
           </div>
           <div>
@@ -345,7 +345,7 @@ function Home() {
           </div>
         </div>
         <div className="max-w-7xl mx-auto mt-8 pt-8 border-t border-gray-800 text-center text-gray-500">
-          © 2024 DentApp. Tüm hakları saklıdır.
+          © 2026 FatsaDent. Tüm hakları saklıdır.
         </div>
       </footer>
     </div>
